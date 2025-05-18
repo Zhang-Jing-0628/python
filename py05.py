@@ -9,7 +9,6 @@
 from dataclasses import replace
 from os.path import split
 
-# neam = "bingbing"
 # print(neam.find("i"))   #第一个i的下标为1
 # print(neam.find("bing"))
 # print(neam.find("b",2))   #超出范围，不包含返回-1
